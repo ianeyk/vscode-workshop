@@ -1,0 +1,88 @@
+1. Oh no! These are out of order!
+
+Out of order! Nine
+Out of order! One
+Out of order! Ten
+Out of order! Four
+Out of order! Fifteen
+Out of order! Three
+Out of order! Zero
+Out of order! Seven
+Out of order! Five
+Out of order! Twelve
+Out of order! Eight
+Out of order! Fourteen
+Out of order! Two
+Out of order! Six
+Out of order! Thirteen
+Out of order! Eleven
+
+
+2. Remove those pesky commas, line breaks, and unknown characters
+
+, How does a <?> bastard, orphan, son of a whore and a /
+, Scotsman, dropped <?> in the middle of a forgotten /
+, Spot in the <?> Caribbean by providence, impoverished, in squalor /
+, Grow up to <?> be a hero and a scholar? /
+, The ten-dollar <?> Founding Father without a father /
+, Got a lot <?> farther by working a lot harder /
+, By being a <?> lot smarter /
+, By being a <?> self-starter /
+, By fourteen, <?> they placed him in charge of a trading charter /
+
+
+3. The verses got broken up! Put them back together
+
+First halves:
+
+Then a hurricane came, and
+Our man saw his future drip,
+Put a pencil to his temple,
+And he wrote his first refrain,
+Well, the word got around,
+Took up a collection just to
+“Get your education, don’t
+The world's gonna know your name.
+
+Second halves:
+
+devastation reigned
+dripping down the drain
+connected it to his brain
+a testament to his pain
+they said, “This kid is insane, man”
+send him to the mainland
+forget from whence you came, and
+What’s your name, man?”
+
+4. Fix the D3clarati0n 0f Ind3p3nd3nc3: 3 -> e and 0 -> o
+
+Wh3n in th3 C0urs3 0f human 3v3nts, it b3c0m3s n3c3ssary
+f0r 0n3 p30pl3 t0 diss0lv3 th3 p0litical bands which hav3
+c0nn3ct3d th3m with an0th3r, and t0 assum3 am0ng th3
+p0w3rs 0f th3 3arth, th3 s3parat3 and 3qual stati0n t0
+which th3 Laws 0f Natur3 and 0f Natur3's G0d 3ntitl3 th3m,
+a d3c3nt r3sp3ct t0 th3 0pini0ns 0f mankind r3quir3s that
+th3y sh0uld d3clar3 th3 caus3s which imp3l th3m t0 th3
+s3parati0n.
+
+5. Replace most but not all of the foos with bars
+
+Replace this with bar -> foo
+Replace this with bar -> foo
+Replace this with bar -> foo
+Replace this with bar -> foo
+Leave this as foo     -> foo
+Replace this with bar -> foo
+Replace this with bar -> foo
+Leave this as foo     -> foo
+Replace this with bar -> foo
+Replace this with bar -> foo
+Replace this with bar -> foo
+Replace this with bar -> foo
+Replace this with bar -> foo
+Leave this as foo     -> foo
+Leave this as foo     -> foo
+Replace this with bar -> foo
+Replace this with bar -> foo
+Replace this with bar -> foo
