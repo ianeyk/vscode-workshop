@@ -7,3 +7,5 @@ def hello_world(x):
 
 def math_expression(a, b, c):
     return (c + ((a + b) ** ((a - (b + c)) * c)) ** b)
+
+hello_world(5)
