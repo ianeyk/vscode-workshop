@@ -1,5 +1,7 @@
 # Task 2: Mass manipulation
 
+Each section has a corresponding section in the file **task2.txt**. Open that file and follow along to complete the exercises.
+
 ## 1. Rearranging lines
 You can use the `Alt+Up` and `Alt+Down` arrows to swap a line of code with the line above or the line below. Use this for the first exercise in **task2.txt**.
 

@@ -1,4 +1,4 @@
-1. Oh no! These are out of order!
+1. These are out of order! Rearrange the lines in order from Zero to Fifteen.
 
 Out of order! Nine
 Out of order! One
@@ -19,6 +19,7 @@ Out of order! Eleven
 
 
 2. Remove those pesky commas, line breaks, and unknown characters
+Hint: advance word by word to get to the <?>'s in the middle of the line
 
 , How does a <?> bastard, orphan, son of a whore and a /
 , Scotsman, dropped <?> in the middle of a forgotten /
