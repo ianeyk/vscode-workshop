@@ -1,21 +1,22 @@
 1. These are out of order! Rearrange the lines in order from Zero to Fifteen.
 
-Out of order! Nine
-Out of order! One
-Out of order! Ten
-Out of order! Four
-Out of order! Fifteen
-Out of order! Three
-Out of order! Zero
-Out of order! Seven
-Out of order! Five
-Out of order! Twelve
-Out of order! Eight
-Out of order! Fourteen
-Out of order! Two
-Out of order! Six
-Out of order! Thirteen
-Out of order! Eleven
+07   \/  (____)(_____)(____)(____) (__) (___/  (__)(__)(_)\_)(____)  (____/(____)(______)(____)
+03 (_)\_)(_____)(___/(____)(___/  (__)(__)(_)\_)(____)  (_)\_)(____)(____/
+04  _  _  ____  _____  __    ____  ____  ___      __    ____  ____    ____  __    __  __  ____
+02  )   / )(_)( \__ \ )__) \__ \   /(__)\  )   / )__)    )   / )__)  )(_) )
+10  \  / \__ \  ( (__  )(_)(  )(_) ))__)    _)(_ \__ \  ( (__  )(_)(  )(_)(  )(__
+05 ( \/ )(_  _)(  _  )(  )  ( ___)(_  _)/ __)    /__\  (  _ \( ___)  (  _ \(  )  (  )(  )( ___)
+01 (  _ \(  _  )/ __)( ___)/ __)    /__\  (  _ \( ___)  (  _ \( ___)(  _ \
+15 (__)(__)(_)\_)(____/   (___/(_____)  (__)(__)(_)\_)(____)   (__) (_____)(______)
+09 ( \/ )/ __)   / __)(  _  )(  _ \( ___)  (_  _)/ __)   / __)(  _  )(  _  )(  )
+06  \  /  _)(_  )(_)(  )(__  )__)   )(  \__ \   /(__)\  )   / )__)    ) _ < )(__  )(__)(  )__)
+11   \/  (___/   \___)(_____)(____/(____)  (____)(___/   \___)(_____)(_____)(____)
+08  _  _  ___     ___  _____  ____  ____    ____  ___     ___  _____  _____  __
+14  /(__)\  )  (  )(_) )  \__ \ )(_)(    /(__)\  )   / )__)    \  /  )(_)(  )(__)(
+12    __    _  _  ____     ___  _____      __    ____  ____    _  _  _____  __  __
+13   /__\  ( \( )(  _ \   / __)(  _  )    /__\  (  _ \( ___)  ( \/ )(  _  )(  )(  )
+00  ____  _____  ___  ____  ___      __    ____  ____    ____  ____  ____
+
 
 
 2. Remove those pesky commas, line breaks, and unknown characters
@@ -56,6 +57,8 @@ send him to the mainland
 forget from whence you came, and
 What’s your name, man?”
 
+Source: Alexander Hamilton by Lin-Manuel Miranda
+
 4. Fix the D3clarati0n 0f Ind3p3nd3nc3: 3 -> e and 0 -> o
 
 Wh3n in th3 C0urs3 0f human 3v3nts, it b3c0m3s n3c3ssary
@@ -66,6 +69,8 @@ which th3 Laws 0f Natur3 and 0f Natur3's G0d 3ntitl3 th3m,
 a d3c3nt r3sp3ct t0 th3 0pini0ns 0f mankind r3quir3s that
 th3y sh0uld d3clar3 th3 caus3s which imp3l th3m t0 th3
 s3parati0n.
+
+Source: The Declaration of Independence
 
 5. Replace most but not all of the foos with bars
 
@@ -87,3 +92,11 @@ Leave this as foo     -> foo
 Replace this with bar -> foo
 Replace this with bar -> foo
 Replace this with bar -> foo
+
+
+
+
+Sources:
+https://patorjk.com/software/taag/
+Alexander Hamilton by Lin-Manuel Miranda
+The Declaration of Independence

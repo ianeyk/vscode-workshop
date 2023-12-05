@@ -23,4 +23,11 @@ Close out of the shortcuts tab, and open **task3.txt**. Try out your new keystro
 ## 3. Increment selection
 Open the Extensions panel. Search for and intall the extension named "Increment Selection" by Alberto Morato.
 
-Open the shortcuts menu in a new tab. We will be replacing the keyboard shortcuts `Ctrl+ =` and `Ctrl+ -` with the commands "increment selection" and "decrement selection", respsectively.
+Open the shortcuts menu in a new tab. We will be replacing the keyboard shortcuts `Ctrl+ =` and `Ctrl+ -` with the commands "increment selection" and "decrement selection", respsectively. Remember to first find out what command these keystrokes map to by default, remove those keystrokes, and then go to the commands that you want and remap the keystrokes there.
+
+## 4. Align cursors
+Open the Extensions panel. Search for and install the extension named "Better Align" by Chouzz.
+
+You can now use a single command to align all your cursors. For example, if you want every line to have the same length, you can create a new cursor on each line, press the `End` key to go to the end of the line, and then press `Ctrl+K Ctrl+Tab` to align your cursors. This will fill in spaces to the left of the cursors until all lines are the same length.
+
+You can also access the align cursors command by searching for it in the command palette (`Ctrl+Shift+P`).
